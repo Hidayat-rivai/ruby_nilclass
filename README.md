@@ -1,1 +1,2 @@
-# ruby_nilclass
+# NilClass
+Nil is Null
